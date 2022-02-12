@@ -13,6 +13,4 @@ ok:Toggle("AIMBOT",function(a)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/buqs9999/noscope-arcade-script/main/scope"))()
 end)
 
-ok:Toggle("esp",function(a)
- loadstring(game:HttpGet("https://raw.githubusercontent.com/buqs9999/cool-esp-cock/main/esp"))()
-end)
+
